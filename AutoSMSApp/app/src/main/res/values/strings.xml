@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Auto SMS App</string>
+    <string name="no_time">No Time Selected</string>
+    <string name="no_contact">No Contact Selected</string>
+</resources>
